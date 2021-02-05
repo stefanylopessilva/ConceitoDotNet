@@ -1,0 +1,16 @@
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\bin\Debug\net5.0\Revisoes.exe
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\bin\Debug\net5.0\Revisoes.deps.json
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\bin\Debug\net5.0\Revisoes.runtimeconfig.json
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\bin\Debug\net5.0\Revisoes.runtimeconfig.dev.json
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\bin\Debug\net5.0\Revisoes.dll
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\bin\Debug\net5.0\ref\Revisoes.dll
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\bin\Debug\net5.0\Revisoes.pdb
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\Revisoes.csprojAssemblyReference.cache
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\Revisoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\Revisoes.AssemblyInfoInputs.cache
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\Revisoes.AssemblyInfo.cs
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\Revisoes.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\Revisoes.dll
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\ref\Revisoes.dll
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\Revisoes.pdb
+C:\Users\Stefany\DigitalInnovationOne\PrimeirosPassosComDotNet\csharp-examples-master\Revisoes\obj\Debug\net5.0\Revisoes.genruntimeconfig.cache
